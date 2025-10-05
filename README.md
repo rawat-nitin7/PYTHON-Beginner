@@ -1,15 +1,19 @@
-# 🎮 Rock Paper Scissors Game
+# Beginner Python Programs
 
-A simple and fun *Python mini-game* where you play *Rock, Paper, Scissors* against the computer.  
-The computer makes its choice randomly, and you can play as many rounds as you like!
+A collection of simple Python programs for beginners to practice coding, understand basic concepts, and improve programming skills.
 
----
+## Table of Contents
+- [About](#about)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
-## 🧠 Features
-- Choose between *Rock, **Paper, or **Scissors*
-- Computer makes a *random choice* each round  
-- Shows results: *You Win / You Lose / It's a Draw*
-- Option to *play again or exit*
-- Handles *invalid inputs* gracefully
+## About
+This repository contains a variety of small Python programs covering basic programming concepts like loops, conditions, functions, and simple algorithms. It is designed for beginners to learn and experiment with Python code.
 
----
+## Technologies Used
+- Python 3.x
+- Standard Python libraries (no external dependencies)
