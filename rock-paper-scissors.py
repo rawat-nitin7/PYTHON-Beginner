@@ -27,9 +27,9 @@ while True:
         print("YOU WON")
     elif(user=='ROCK' and com== 'PAPER' ):
         print("YOU LOSE")
-    elif(user=='PAPER' and com=='SCISSORS'):
+    elif(user=='PAPER' and com=='ROCK'):
         print("YOU WON")
-    elif(user=='PAPER' and com== 'ROCK' ):
+    elif(user=='PAPER' and com== 'SCISSORS' ):
         print("YOU LOSE")
     elif(user=='SCISSORS' and com=='PAPER'):
         print("YOU WON")
